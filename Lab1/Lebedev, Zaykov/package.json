@@ -1,0 +1,14 @@
+{
+  "name": "trainwithbrain",
+  "version": "1.0.0",
+  "description": "App for training",
+  "main": "src/js/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "AMTeam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
